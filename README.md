@@ -1,2 +1,2 @@
 # bricks
-> 搬砖
+> 搬[砖](https://github.com/monkindey/bricks/issues)
