@@ -47,3 +47,16 @@
 * __eliminate__
 
   something you do not want or need, means to remove it completely
+  
+* __religion__
+
+  a belief in a god or gods
+  
+  stephen curry is my religion
+  
+* __rust__
+
+  生锈
+  
+  Stephen Curry returns, scores 40 as Warriors top Blazers 132-125: Steph Curry shook off early __rust__ and erupted
+ 
