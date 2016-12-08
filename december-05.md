@@ -60,3 +60,12 @@
   
   Stephen Curry returns, scores 40 as Warriors top Blazers 132-125: Steph Curry shook off early __rust__ and erupted
  
+* __belittle__
+  
+  轻视
+  
+  via https://twitter.com/reactjs/status/806646405909483520
+  
+* self-deprecation
+
+  自嘲
