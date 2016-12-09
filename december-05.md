@@ -69,3 +69,23 @@
 * self-deprecation
 
   自嘲
+  
+* triumph
+  
+  a greate success or achievement
+  
+  via https://twitter.com/rauchg/status/806926021916180480
+
+* testy
+
+  angry
+  
+  via https://twitter.com/ESPNNBA/status/807046755892260864
+  
+* wound up
+
+  tense, worried, nervous or angry
+  
+* diagnose
+
+  诊断 判断
