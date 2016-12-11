@@ -70,22 +70,26 @@
 
   自嘲
   
-* triumph
+* __triumph__
   
   a greate success or achievement
   
   via https://twitter.com/rauchg/status/806926021916180480
 
-* testy
+* __testy__
 
   angry
   
   via https://twitter.com/ESPNNBA/status/807046755892260864
   
-* wound up
+* __wound up__
 
   tense, worried, nervous or angry
   
-* diagnose
+* __diagnose__
 
   诊断 判断
+
+* __long overdue__
+
+  姗姗来迟
