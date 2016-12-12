@@ -1,5 +1,18 @@
-1. __deficit__
+* __deficit__
 
-不足 
+  不足 
 
-via https://twitter.com/warriors/status/808145010789007360
+  via https://twitter.com/warriors/status/808145010789007360
+  
+* __not ideal__
+
+  不理想
+  
+  via https://twitter.com/warriors/status/808128284739260416
+  
+* __rad__
+
+  酷毙
+  
+  via https://twitter.com/addyosmani/status/808029392374902784
+  
