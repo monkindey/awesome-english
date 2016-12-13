@@ -16,3 +16,8 @@
   
   via https://twitter.com/addyosmani/status/808029392374902784
   
+* __fabulous__
+
+  excellent, wonderful
+  
+  via https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.dy2pnz9p4
