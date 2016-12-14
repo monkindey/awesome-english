@@ -21,3 +21,10 @@
   excellent, wonderful
   
   via https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.dy2pnz9p4
+
+
+* __proficient__
+
+  熟练的 精通的
+  
+  via http://jlongster.com/Leaving-Mozilla 
