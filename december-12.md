@@ -32,9 +32,19 @@
   via http://jlongster.com/Leaving-Mozilla 
 
 
-* As the year wraps up
+* __as the year wraps up__
 
   随着今年接近尾声
   
   via https://twitter.com/sundarpichai/status/809209229701545984
   
+* __congest__
+  
+  拥堵
+  via https://twitter.com/sebmck/status/809360069611687936
+  
+* __reluctant__
+
+  不情愿
+  
+  via https://github.com/kriskowal/asap/issues/40
