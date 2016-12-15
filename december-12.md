@@ -1,7 +1,9 @@
 * __deficit__
 
   不足 
-
+  
+  we have a great __deficit__ this year.
+  
   via https://twitter.com/warriors/status/808145010789007360
   
 * __not ideal__
@@ -28,3 +30,11 @@
   熟练的 精通的
   
   via http://jlongster.com/Leaving-Mozilla 
+
+
+* As the year wraps up
+
+  随着今年接近尾声
+  
+  via https://twitter.com/sundarpichai/status/809209229701545984
+  
