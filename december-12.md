@@ -58,3 +58,7 @@
   诊断 断定
   
   diagnose network issues
+
+* __salute__
+
+  salute to Firebug
