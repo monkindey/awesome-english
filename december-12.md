@@ -48,3 +48,13 @@
   不情愿
   
   via https://github.com/kriskowal/asap/issues/40
+  
+* __crucial__
+
+  important, considerable
+  
+* __diagnose__
+
+  诊断 断定
+  
+  diagnose network issues
