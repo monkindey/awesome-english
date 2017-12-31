@@ -1,64 +1,8 @@
-* __deficit__
-
-  不足 
-  
-  we have a great __deficit__ this year.
-  
-  via https://twitter.com/warriors/status/808145010789007360
-  
-* __not ideal__
-
-  不理想
-  
-  via https://twitter.com/warriors/status/808128284739260416
-  
-* __rad__
-
-  酷毙
-  
-  via https://twitter.com/addyosmani/status/808029392374902784
-  
-* __fabulous__
-
-  excellent, wonderful
-  
-  via https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.dy2pnz9p4
+|单词|注解|链接|
+|:--:|:--:|:--:|
+|deficit|不足|[ erased a 10-point fourth quarter deficit](https://twitter.com/warriors/status/808145010789007360)|
+|rad|酷毙|[https://twitter.com/addyosmani/status/808029392374902784](https://twitter.com/addyosmani/status/808029392374902784)|
+|fabulous|excellent, wonderful|[fabulous macOS Tips & Tricks](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8#.dy2pnz9p4)|
+|congest|拥堵|[probably extremely congested](https://twitter.com/sebmck/status/809360069611687936)|
 
 
-* __proficient__
-
-  熟练的 精通的
-  
-  via http://jlongster.com/Leaving-Mozilla 
-
-
-* __as the year wraps up__
-
-  随着今年接近尾声
-  
-  via https://twitter.com/sundarpichai/status/809209229701545984
-  
-* __congest__
-  
-  拥堵
-  via https://twitter.com/sebmck/status/809360069611687936
-  
-* __reluctant__
-
-  不情愿
-  
-  via https://github.com/kriskowal/asap/issues/40
-  
-* __crucial__
-
-  important, considerable
-  
-* __diagnose__
-
-  诊断 断定
-  
-  diagnose network issues
-
-* __salute__
-
-  salute to Firebug
